@@ -312,7 +312,7 @@ For assistance or custom implementations:
 
 ## 📋 Changelog
 
-### **Version 1.0.0** (Current)
+### **Version 1.0.2** (Current)
 - ✅ Complete property data extraction
 - ✅ Enhanced agency contact information
 - ✅ Google Maps integration with image saving
