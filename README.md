@@ -165,7 +165,7 @@ Only one field is required: a property URL.
 
 ### 🖼️ **Live Results View**
 
-![Idealista Scraper Results](path/to/your/screenshot.png)
+![Idealista Scraper Results](https://raw.githubusercontent.com/DZ-ABDLHAKIM/idealista-scraper-api/refs/heads/main/screenshot.png)
 *Real-time view of extracted property data in the Apify console*
 
 ---
